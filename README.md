@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="MIT License"/>
 </p>
 
-> An end-to-end SQL analytics project on a real-world e-commerce inventory dataset — covering database design, exploratory analysis, data cleaning, and **business-driven queries** using joins, CTEs, window functions, and indexing.
+> An end-to-end SQL analytics project on a real-world e-commerce inventory dataset covering database design, exploratory analysis, data cleaning, and **business-driven queries** using joins, CTEs, window functions, and indexing.
 
 ---
 
